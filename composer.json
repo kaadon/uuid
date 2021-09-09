@@ -1,13 +1,11 @@
 {
   "name": "kaadon/uuid",
   "type": "library",
-  "description": "kaadon TronService for PHP",
+  "description": "kaadon Uuid for PHP",
   "keywords": [
-    "tron",
-    "trx",
-    "chain",
-    "kaadon",
-    "block"
+    "Uuid",
+    "Uuids",
+    "kaadon"
   ],
   "homepage": "http://developer.kaadon.com/",
   "license": "MIT",
@@ -24,7 +22,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Kaadon\\TronService\\": "src"
+      "Kaadon\\Uuid\\": "src"
     }
   }
 }
